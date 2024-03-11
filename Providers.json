@@ -1,0 +1,11 @@
+{
+    "Cigna": {
+        "drug_txt": "Cigna_Drugs.txt" 
+    },
+    "Healthcare New England": {
+        "drug_txt": "HNE_Drugs.txt"
+    },
+    "Tufts Health Plan": {
+        "drug_txt": "THP_Drugs.txt"
+    }
+}
